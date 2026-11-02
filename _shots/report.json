@@ -1,0 +1,541 @@
+{
+  "src": "D:\\ai产品项目内容\\圣诞树div\\圣诞树DIY.html",
+  "url": "file:///D:/ai%E4%BA%A7%E5%93%81%E9%A1%B9%E7%9B%AE%E5%86%85%E5%AE%B9/%E5%9C%A3%E8%AF%9E%E6%A0%91div/%E5%9C%A3%E8%AF%9E%E6%A0%91DIY.html",
+  "outdir": "D:\\ai产品项目内容\\圣诞树div\\_shots",
+  "include": [
+    "lint",
+    "screenshots",
+    "structure"
+  ],
+  "shots": {
+    "desktop": {
+      "screenshot": "D:\\ai产品项目内容\\圣诞树div\\_shots\\圣诞树DIY_desktop.jpg",
+      "screenshotBytes": 72447,
+      "truncated": false,
+      "structure": {
+        "title": "圣诞树DIY · 点亮你的专属圣诞",
+        "firstH1": "",
+        "viewport": {
+          "w": 1414,
+          "h": 760
+        },
+        "fullpage": {
+          "w": 1414,
+          "h": 760
+        },
+        "counts": {
+          "section": 0,
+          "h1": 0,
+          "h2": 0,
+          "img": 16,
+          "canvas": 0,
+          "svg": 12,
+          "links": 0,
+          "buttons": 5
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "reportSource": "cdp"
+    }
+  },
+  "engine": "chrome_cli",
+  "chromiumExec": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "engineDegraded": true,
+  "engineDegradedReason": "playwright 未装",
+  "publishBrokenAssets": [
+    {
+      "file": "assets\\bells.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-ball-gold1.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-ball-gold2.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-ball-gold3.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-bell-red.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-bow-gold1.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-bow-gold2.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-bow-gold3.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-cane-bell.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-cane-watercolor.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-gold-ball-pine.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-pine-garland.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-pinecone-ball.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-plaid-bell.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-red-bell3.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-wreath-red.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\deco-wreath.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\snowflake.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\sparkle-cross.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    },
+    {
+      "file": "assets\\star-burst.png",
+      "reason": "js-literal",
+      "severity": "error",
+      "loadedAtRuntime": false,
+      "onDisk": true
+    }
+  ],
+  "publishBrokenAssetsHint": "含义：发布链路靠静态扫描 HTML 源码决定上传哪些图片文件，**只认 `src` 属性和 CSS `url()` 两个位置**（线上实测）。写在别处的路径不会被上传，发布后 404 裂图。本地打开和自检截图都看不出来——文件真实存在，浏览器照样加载。 | severity=error 的逐条改，改法都是同一个：把路径挪到 `<img src=\"assets/x.png\">` 或 CSS `url('assets/x.png')`。reason=js-literal 路径写在 JS 字符串里（`const g=['assets/x.png']` 这种常量数组也算，照样裂）；reason=js-concat 路径由 JS 拼接（`'assets/img'+i+'.png'`）；reason=non-src-attr 路径写在 `data-src`、`srcset`、`poster` 等非 `src` 属性上——**这类即便静态写在 HTML 属性里也会裂**，懒加载写法要在 `src` 上放真实路径。 | severity=warning（reason=unreferenced-file）是提醒不是错误：`assets/` 里有这个文件，但源码和运行时都没引用到它。可能是没用上的多余素材（删掉即可），也可能是路径拼接且当前视口没渲染到的图（那就是会裂的，按 error 处理）。**这一条只在本地电脑（macOS / Windows）检测**——云电脑图片走 `lark-cli drive +html-image-upload`，HTML 引用外链、`assets/` 里的原图本就该保留且不被引用，在那儿报是纯误报，所以直接不报；**别因为这条去删云电脑上的原图**。自行判断，别的规则不受它影响。",
+  "elapsedSec": 3.74,
+  "schemaVersion": 2,
+  "status": "fail",
+  "engineInfo": {
+    "name": "chrome_cli",
+    "degraded": true,
+    "degradedReasons": [
+      "playwright 未装"
+    ]
+  },
+  "input": {
+    "original": "D:\\ai产品项目内容\\圣诞树div\\圣诞树DIY.html",
+    "resolvedPath": "D:\\ai产品项目内容\\圣诞树div\\圣诞树DIY.html",
+    "baseUrl": "file:///D:/ai%E4%BA%A7%E5%93%81%E9%A1%B9%E7%9B%AE%E5%86%85%E5%AE%B9/%E5%9C%A3%E8%AF%9E%E6%A0%91div/%E5%9C%A3%E8%AF%9E%E6%A0%91DIY.html",
+    "protocol": "file",
+    "cwd": "D:\\ai产品项目内容\\圣诞树div",
+    "mediaMode": {
+      "reducedMotion": true
+    }
+  },
+  "artifacts": {
+    "screenshots": [
+      {
+        "viewport": "desktop",
+        "path": "D:\\ai产品项目内容\\圣诞树div\\_shots\\圣诞树DIY_desktop.jpg",
+        "size": 72447,
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      }
+    ]
+  },
+  "summary": {
+    "blocker": 0,
+    "error": 20,
+    "warning": 0,
+    "info": 0
+  },
+  "findings": [
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\bells.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||0"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-ball-gold1.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||1"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-ball-gold2.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||2"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-ball-gold3.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||3"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-bell-red.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||4"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-bow-gold1.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||5"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-bow-gold2.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||6"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-bow-gold3.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||7"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-cane-bell.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||8"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-cane-watercolor.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||9"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-gold-ball-pine.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||10"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-pine-garland.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||11"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-pinecone-ball.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||12"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-plaid-bell.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||13"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-red-bell3.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||14"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-wreath-red.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||15"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\deco-wreath.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||16"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\snowflake.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||17"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\sparkle-cross.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||18"
+    },
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "kind": "publish",
+      "viewport": null,
+      "selector": null,
+      "evidence": {
+        "file": "assets\\star-burst.png",
+        "reason": "js-literal",
+        "severity": "error",
+        "loadedAtRuntime": false,
+        "onDisk": true
+      },
+      "dedupeKey": "publishBrokenAssets|top||19"
+    }
+  ],
+  "prioritizedActions": [
+    {
+      "ruleId": "publishBrokenAssets",
+      "severity": "error",
+      "viewport": null,
+      "selector": null
+    }
+  ],
+  "reportPath": "D:\\ai产品项目内容\\圣诞树div\\_shots\\report.json"
+}
